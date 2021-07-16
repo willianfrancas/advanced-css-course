@@ -1,0 +1,14 @@
+{
+  "name": "natours-starte",
+  "version": "1.0.0",
+  "description": "landpage natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css --watch"
+  },
+  "author": "@willianfrancas",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
